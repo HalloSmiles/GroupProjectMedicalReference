@@ -430,14 +430,14 @@ int mainMMchoice = 0;                    //creating a variable for the music cho
 
         void showMenu()
         {
-            cout << setw(110) << "WELCOME TO THERAPY SEARCH \n";
-            cout << setw(120) << "---------------------------------------- \n";
-            cout << setw(115) << "Please select item from menu below.\n";
-            cout << setw(105) << "1. List of Resources\n";
-            cout << setw(102) << "2. Questionnaire\n";
-            cout << setw(105) << "3. Relax Your Mind\n";
-            cout << setw(104) << "4. Exit Program\n";
-            cout << setw(102) << "------------\n";
+            cout << setw(125) << "WELCOME TO THERAPY SEARCH \n";
+            cout << setw(135) << "---------------------------------------- \n";
+            cout << setw(130) << "Please select item from menu below.\n";
+            cout << setw(120) << "1. List of Resources\n";
+            cout << setw(117) << "2. Questionnaire\n";
+            cout << setw(120) << "3. Relax Your Mind\n";
+            cout << setw(119) << "4. Exit Program\n";
+            cout << setw(117) << "------------\n";
 
         }
 
